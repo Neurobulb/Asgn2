@@ -1,0 +1,26 @@
+<annotation>
+	<folder>game_controller</folder>
+	<filename>Google_0129.jpeg</filename>
+	<path>C:\scaper\Image-Downloader-master\download_images\game_controller\Google_0129.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>controller</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>465</xmin>
+			<ymin>224</ymin>
+			<xmax>1141</xmax>
+			<ymax>764</ymax>
+		</bndbox>
+	</object>
+</annotation>
